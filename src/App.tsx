@@ -22,6 +22,23 @@ const x = 'somethinfg';
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import {
   SafeAreaView,
   ScrollView,
