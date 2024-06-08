@@ -9,10 +9,12 @@
     "start": "react-native start",
     "test": "jest",
     "linter": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
-    "prettier": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'"
+    "prettier": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
+    "prepare": "husky"
   },
   "dependencies": {
     "eslint-config-prettier": "^9.1.0",
+    "husky": "^9.0.11",
     "react": "18.2.0",
     "react-native": "0.74.2"
   },
