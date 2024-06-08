@@ -8,10 +8,7 @@
 import React from 'react';
 import type { PropsWithChildren } from 'react';
 
-
-
-
-
+const x = 'somethinfg';
 import {
   SafeAreaView,
   ScrollView,
